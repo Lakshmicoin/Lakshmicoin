@@ -1,12 +1,12 @@
-What is MaxCoin?
+What is LakshmiCoin?
 ==============
 
 An alternative cryptocurrency disrupting the already rather disrupting crypto market.
 
 Technical Information
 
-+ 250,000,000 coins
-+ 96 coins rewarded per block, halving every ~12 months
++ 1,008,000,000 coins
++ 1,080 coins rewarded per block, halving every ~12 months
 + minimum reward of 1 coin per block
 + 30 second block times
 + difficulty retargeting using Kimoto Gravity Well
@@ -27,5 +27,5 @@ Forked from Bitcoin reference wallet 0.8.5 and Blakecoin
 License
 ------
 
-MaxCoin is released under the terms of the MIT license. See `COPYING` for more
+LakshmiCoin is released under the terms of the MIT license. See `COPYING` for more
 information or see http://opensource.org/licenses/MIT.
